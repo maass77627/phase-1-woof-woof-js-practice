@@ -70,4 +70,3 @@ function toggle(type, doggy, button) {
 
 })
 
-
